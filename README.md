@@ -39,7 +39,7 @@ Task_Tracker/
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/task-tracker-cli.git
+   git clone https://github.com/Koushik3907/task-tracker-cli.git
    cd task-tracker-cli
    ```
 2. Open the project in your preferred IDE.
