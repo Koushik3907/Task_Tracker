@@ -1,5 +1,5 @@
 # Task Tracker CLI
-https://roadmap.sh/projects/task-tracker
+
 
 ## Overview
 Task Tracker CLI is a simple task management system built using Java and Spring Boot. It allows users to create, update, delete, and retrieve tasks using a REST API. The task data is stored in a JSON file for persistence.
